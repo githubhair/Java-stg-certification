@@ -22,7 +22,6 @@ public class challenge1 {
         System.setProperty("webdriver.chrome.driver", "bin/chromedriver");
         driver = new ChromeDriver();
 
-
     }
 
     @AfterClass
